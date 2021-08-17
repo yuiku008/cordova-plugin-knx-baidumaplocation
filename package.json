@@ -1,17 +1,17 @@
 {
-  "name": "cordova-plugin-knx-baidumaplocation",
+  "name": "cordova-plugin-knxbaidumaplocation",
   "private": false,
   "version": "4.0.4",
   "description": "Cordova Geolocation Plugin,use Baidu Map SDK",
   "cordova": {
-    "id": "cordova-plugin-knx-baidumaplocation",
+    "id": "cordova-plugin-knxbaidumaplocation",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuiku008/cordova-plugin-knx-baidumaplocation.git"
+    "url": "git+https://github.com/yuiku008/cordova-plugin-knxbaidumaplocation.git"
   },
   "keywords": [
     "cordova",
@@ -36,7 +36,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/yuiku008/cordova-plugin-knx-baidumaplocation/issues"
+    "url": "https://github.com/yuiku008/cordova-plugin-knxbaidumaplocation/issues"
   },
-  "homepage": "https://github.com/yuiku008/cordova-plugin-knx-baidumaplocation#readme"
+  "homepage": "https://github.com/yuiku008/cordova-plugin-knxbaidumaplocation#readme"
 }
