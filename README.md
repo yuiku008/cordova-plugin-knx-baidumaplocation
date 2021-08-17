@@ -1,10 +1,10 @@
 <!--
  * @Date: 2021-08-17 11:49:01
  * @LastEditTime: 2021-08-17 21:10:52
- * @FilePath: /cordova-plugin-knxbaidumaplocation/README.md
+ * @FilePath: /vx-app-baidumap/README.md
 -->
 
-# cordova-plugin-knxbaidumaplocation
+# vx-app-baidumap
 
 百度地图插件 ver 4.04
 cordova-plugin-baidumaplocation 太久没更新，自己更新下.
